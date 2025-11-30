@@ -1,4 +1,5 @@
 # PROJECT-1--FLIGHT-DELAY-ANALYSIS
+
 Project Overview: Flight delay analysis involves the systematic evaluation of aircraft performance, & flight operations. This project focuses on analyzing airline performance using flight, Airport & Airline data. The project provides insights and recommendations for improving on-time performance, airline route optimization, Scheduling, flight punctuality and overall airline efficiency. This process supports decision-making in areas like planning, Arrivals and Departures. 
 
 ### Objectives:
@@ -52,6 +53,24 @@ Project Overview: Flight delay analysis involves the systematic evaluation of ai
 •Delay correlation (departure vs. arrival) shows how early issues propagate through the system.	
 
 •Hourly and destination-wise delay rates identify when and where performance drops the most.
+
+### EXCEL DASHBOARD
+
+<img width="1861" height="965" alt="image" src="https://github.com/user-attachments/assets/99dd4953-e3e5-48fb-8e27-8e1b1671ed5f" />
+
+### POWER BI DASHBOARD
+
+<img width="1181" height="636" alt="image" src="https://github.com/user-attachments/assets/456f8d2e-8030-4f32-9d08-f9a67d24275d" />
+
+<img width="1361" height="769" alt="image" src="https://github.com/user-attachments/assets/658ab18a-c682-4a00-b7a2-5f7ed769892f" />
+
+### TABLEAU DASHBOARD
+
+<img width="1867" height="954" alt="image" src="https://github.com/user-attachments/assets/2932af1a-225f-416c-9f94-96a6816f0572" />
+
+
+
+
 
 
 
