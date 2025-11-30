@@ -1,6 +1,8 @@
 # PROJECT-1--FLIGHT-DELAY-ANALYSIS
 
-Project Overview: Flight delay analysis involves the systematic evaluation of aircraft performance, & flight operations. This project focuses on analyzing airline performance using flight, Airport & Airline data. The project provides insights and recommendations for improving on-time performance, airline route optimization, Scheduling, flight punctuality and overall airline efficiency. This process supports decision-making in areas like planning, Arrivals and Departures. 
+### Project Overview 
+
+Flight delay analysis involves the systematic evaluation of aircraft performance, & flight operations. This project focuses on analyzing airline performance using flight, Airport & Airline data. The project provides insights and recommendations for improving on-time performance, airline route optimization, Scheduling, flight punctuality and overall airline efficiency. This process supports decision-making in areas like planning, Arrivals and Departures. 
 
 ### Objectives:
 
@@ -14,11 +16,11 @@ Project Overview: Flight delay analysis involves the systematic evaluation of ai
 
 *Visualization
 
-### DATASET OVERVIEWS
+## DATASET OVERVIEWS
 
 <img width="718" height="658" alt="image" src="https://github.com/user-attachments/assets/1057690c-b992-4d48-813b-1f622b30c389" />
 
-### DATA MODELLING
+## DATA MODELLING
 
 <img width="1446" height="678" alt="image" src="https://github.com/user-attachments/assets/29e5cce3-6604-4ea6-95d6-afa7d99d52e9" />
 
@@ -68,47 +70,11 @@ Project Overview: Flight delay analysis involves the systematic evaluation of ai
 
 <img width="1867" height="954" alt="image" src="https://github.com/user-attachments/assets/2932af1a-225f-416c-9f94-96a6816f0572" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-EXCEL DASHBOARD
-
-<img width="1861" height="965" alt="image" src="https://github.com/user-attachments/assets/37fded53-ed3c-40b8-9746-3ae85c947044" />
-
-POWDER BI DASHBOARD
-
-<img width="1181" height="636" alt="image" src="https://github.com/user-attachments/assets/4060ec28-1a66-42a1-8f30-b25d67c85531" />
-
-<img width="1361" height="769" alt="image" src="https://github.com/user-attachments/assets/0b7a8ee0-f22b-451d-8c28-3f46d18fa7bf" />
-
-TABLEAU DASHBOARD
-
-<img width="1867" height="954" alt="image" src="https://github.com/user-attachments/assets/d58e0836-6523-4e20-853e-e0b5fc5faa11" />
-
 SQL QUERIES KPI
 
 <img width="1274" height="732" alt="image" src="https://github.com/user-attachments/assets/0e9af314-6037-4eff-834a-9597399a0c72" />
 
 <img width="1431" height="748" alt="image" src="https://github.com/user-attachments/assets/bd372226-ce8b-4ae5-b62c-8635158f8079" />
+
+## TAKEAWAYS
+
