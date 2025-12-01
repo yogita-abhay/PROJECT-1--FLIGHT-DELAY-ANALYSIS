@@ -36,25 +36,25 @@ Flight delay analysis involves the systematic evaluation of aircraft performance
  
 ### FINAL KPI METRICS
 
-•To get a complete picture of airline performance across operations and reliability.	
+• To get a complete picture of airline performance across operations and reliability.	
 
-•Total flights, cancellations & diversions show overall network activity and reliability.	
+• Total flights, cancellations & diversions show overall network activity and reliability.	
 
-•Weekday vs weekend and state/city-wise trends help identify demand and traffic patterns.	
+• Weekday vs weekend and state/city-wise trends help identify demand and traffic patterns.	
 
-•Busiest airports & routes reveal high-traffic areas that impact scheduling and delays.	
+• Busiest airports & routes reveal high-traffic areas that impact scheduling and delays.	
 
-•Delay-related KPIs (average delay, delay reasons, time-of-day) help pinpoint causes and patterns of delay.
+• Delay-related KPIs (average delay, delay reasons, time-of-day) help pinpoint causes and patterns of delay.
 
-•Airline-wise delay analysis highlights the most and least punctual airlines.	
+• Airline-wise delay analysis highlights the most and least punctual airlines.	
 
-•Punctuality metrics (7-day rolling and on-time performance) track consistency over time.	
+• Punctuality metrics (7-day rolling and on-time performance) track consistency over time.	
 
-•Taxi-in/out times measure ground efficiency and turnaround speed.
+• Taxi-in/out times measure ground efficiency and turnaround speed.
 
-•Delay correlation (departure vs. arrival) shows how early issues propagate through the system.	
+• Delay correlation (departure vs. arrival) shows how early issues propagate through the system.	
 
-•Hourly and destination-wise delay rates identify when and where performance drops the most.
+• Hourly and destination-wise delay rates identify when and where performance drops the most.
 
 ### EXCEL DASHBOARD
 
@@ -97,7 +97,7 @@ SQL QUERIES KPI
 
 ## RECOMMENDATIONS
 
-*Improving aircraft turnaround and using predictive analytics can further reduce delays.
+* Improving aircraft turnaround and using predictive analytics can further reduce delays.
 
 * High-volume weekday periods, requiring targeted optimization in scheduling (distributing flights more evenly) and turnaround processes at major hubs.
 
