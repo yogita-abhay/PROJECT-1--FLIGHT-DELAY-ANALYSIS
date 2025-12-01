@@ -78,3 +78,43 @@ SQL QUERIES KPI
 
 ## TAKEAWAYS
 
+* A total of 1.04 million flights were analyzed, around 40K flights were cancelled and 2.5K were diverted, showing minor operational disruptions.
+  
+* Over 1 million flights and a majority of departures categorized as Early or On-Time (56% combined).
+
+* Weekdays handled more flights (≈769K) than weekends (≈277K), and also saw higher delays. Weekdays experienced more delays than weekends, mainly due to late aircraft and airline issues.
+
+* Southwest and major airlines among all the airlines handled the most flights, highlighting their network strength.
+
+* The key challenge is the volume of 421K Late Arrivals. This issue is most pronounced during high-volume weekday periods. 
+
+* Utilize the detailed Cancellation Reasons data to perform an immediate Pareto analysis. 
+
+* Early arrivals (≈559K) outnumbered late arrivals (≈421K), indicating overall strong flight performance.
+
+* Major delays were linked to late aircraft and airline-related issues, rather than weather or security.
+
+
+## RECOMMENDATIONS
+
+*Improving aircraft turnaround and using predictive analytics can further reduce delays.
+
+* High-volume weekday periods, requiring targeted optimization in scheduling (distributing flights more evenly) and turnaround processes at major hubs.
+
+* Focus resources on weekday arrival optimization and root-cause analysis of the top cancellation factors.
+
+* Minimize turnaround time to address “Late Aircraft” delays through better coordination between arrival and departure teams.
+
+* Enhance predictive maintenance and analytics to identify aircraft or routes prone to delays. 
+
+* Collaborate with air traffic control to manage peak-hour congestion, especially at major hubs like LAX and JFK.
+
+* Monitor airline-specific performance (e.g., F9, MQ, NK) and set benchmarks for on-time improvement.
+
+
+
+
+
+
+
+
