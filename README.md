@@ -6,15 +6,15 @@ Flight delay analysis involves the systematic evaluation of aircraft performance
 
 ### Objectives:
 
-*Reduce Arrival Variability
+* Reduce Arrival Variability
 
-*Identify Root Causes
+* Identify Root Causes
 
-*Optimize Scheduling
+* Optimize Scheduling
 
-*Punctuality
+* Punctuality
 
-*Visualization
+* Visualization
 
 ## DATASET OVERVIEWS
 
